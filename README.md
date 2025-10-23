@@ -1,16 +1,2 @@
-# calculator
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this Flutter calculator app project, I learned how to use the math_expressions package to evaluate mathematical expressions and the shared_preferences package to save and load the last result.
+I also learned about state management in Flutter and how to handle state changes to build a responsive, reactive UI for the calculator.
